@@ -1,0 +1,10 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+
+A new hidden folder named .git is created.
+To have a history of my project changes.
+
+2. How is the staging area different from the working directory and the repository? What value do you think
+it offers?
+
+It is different because it only contains the files you want, not all the files.
+It lets you pick what files you want to commit at once.
