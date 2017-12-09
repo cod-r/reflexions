@@ -6,4 +6,10 @@ When I am working on a project with other people
 
 Because I might want to go a different path with the project, or maybe I am working on a new feature and I dont want the other people that are working on the project to make changes that are breaking things up for me.
 
-3.
+3.Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+I will use forks when I want to clone a repository to my own github account.
+I will use clone when I want to clone an entire repository to my computer.
+I will use branches when I will make changhes that are experimental and I will not want to break things in master branch.
+
+4.
