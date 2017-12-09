@@ -16,3 +16,14 @@ Checking the difference between the staged file and the repository.
 4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When trying new experimental modes to not mess up things in the main working file.
+
+5. How do the diagrams help you visualize the branch structure?
+
+It helped me to see clearly which are the parents of each commit and to see the commits that I can reach from the curent head.
+
+6. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro: time saving
+Con: merging conflicts can be confusing and hard to solve
+
+7.
