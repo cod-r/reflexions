@@ -12,4 +12,6 @@ I will use forks when I want to clone a repository to my own github account.
 I will use clone when I want to clone an entire repository to my computer.
 I will use branches when I will make changhes that are experimental and I will not want to break things in master branch.
 
-4.
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+That way I have the latest code of the project and I can work offline.
