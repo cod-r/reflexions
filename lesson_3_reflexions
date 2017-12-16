@@ -21,4 +21,9 @@ That way I have the latest code of the project and I can work offline.
 I will collaborate by sending the whole project or the file with the changhes. It will be harder to view
 the changes I've made and it will not be easier than using GitHub.
 
-6.
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When working on a new feature. The bennefit would be that I am not directly modifying the master branch and I will apply the changhes only when I'm sure the new feature is ready to be merged.
+The benefit of working directly on master is an overall less work to do.
+
+
