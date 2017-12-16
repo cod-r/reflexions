@@ -15,3 +15,10 @@ I will use branches when I will make changhes that are experimental and I will n
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 That way I have the latest code of the project and I can work offline.
+
+5.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I will collaborate by sending the whole project or the file with the changhes. It will be harder to view
+the changes I've made and it will not be easier than using GitHub.
+
+6.
